@@ -2,9 +2,9 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
 
-This repository is for showing how Git and GitHub work
+Ya gotta leave a space after the hashtags to get it to render correctly
 
 ## Purpose
 
