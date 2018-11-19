@@ -4,7 +4,7 @@ This is a simple website project for showing how to use Git and Github together.
 
 ## Introduction
 
-Ya gotta leave a space after the hashtags to get it to render correctly
+This example is to show different parts of the Git repository and various commands using a web project.
 
 ## Purpose
 
